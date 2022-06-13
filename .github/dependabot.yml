@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: 'elm'
+    directory: ''
+    schedule:
+      interval: 'weekly'
